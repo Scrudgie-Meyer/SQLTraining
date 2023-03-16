@@ -9,4 +9,6 @@ https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/no
 To start the project correctly you should install NorthWind on PC and connect it to the project
 with the help of tools Server Explorer and SQL Server Object Explorer.
 
+Set new Link way in app.config.
+
 Now you can run and modify code without any issues.
